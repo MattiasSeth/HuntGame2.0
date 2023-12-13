@@ -1,4 +1,4 @@
-package src.Game;
+package Game;
 
 public class GameMessage {
     static void welcome() {

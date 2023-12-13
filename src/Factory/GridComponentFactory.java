@@ -1,4 +1,4 @@
-package src.Factory;
+package Factory;
 
 public class GridComponentFactory{
     public GridComponent createGridComponent(String type)

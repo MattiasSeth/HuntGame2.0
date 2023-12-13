@@ -1,4 +1,4 @@
-package src.Factory;
+package Factory;
 
 import javax.swing.*;
 

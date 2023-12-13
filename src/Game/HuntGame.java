@@ -1,4 +1,4 @@
-package src.Game;
+package Game;
 
 import Factory.GridComponent;
 import Factory.GridComponentFactory;
